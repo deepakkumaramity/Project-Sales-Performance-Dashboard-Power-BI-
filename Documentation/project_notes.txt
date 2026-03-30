@@ -1,0 +1,3 @@
+Project Notes:
+- Built Sales Dashboard
+- Used DAX formulas
