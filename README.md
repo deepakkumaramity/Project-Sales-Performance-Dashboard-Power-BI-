@@ -22,7 +22,8 @@ This project is a **Sales Performance Dashboard** built using Power BI to analyz
 ## 📸 Dashboard Preview
 
 ### 🔹 Sales & Marketing Dashboard
-![Dashboard 1](Images/dashboard1.png)
+![Dashboard 1]<img width="1133" height="640" alt="Screenshot 2026-03-30 134728" src="https://github.com/user-attachments/assets/7b98e45f-1c36-46b5-98b5-de7e83394a0c" />
+
 
 ### 🔹 Executive Dashboard
 ![Dashboard 2](Images/dashboard2.png)
